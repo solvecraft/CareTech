@@ -1,4 +1,3 @@
-# Python4Service
 # Equipment Maintenance System
 
 # Goal
