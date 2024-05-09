@@ -1,7 +1,7 @@
 # Equipment Maintenance History (Log)
 
 # Goal
-The goal of this project is to create a simple Python Web App using DJango. It enables a service technicain to record an equipment status (in this example; temperature). Initially, the focus will be on developing basic functionality for logging status. Subsequent iterations will introduce features for logging delicate equipment parameters and preventative maintenance records.
+The goal of this project is to create a simple Python Web App using DJango. It enables a service technician to record an equipment status (in this example; temperature). Initially, the focus will be on developing basic functionality for logging status. Subsequent iterations will introduce features for logging delicate equipment parameters and preventative maintenance records.
 
 # Current Status
 As of now, the project is in the planning and early development stage. Basic code scaffolding and project structure are being set up.
